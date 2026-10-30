@@ -18,8 +18,5 @@ Full-stack developer at **Pay2all Services Pvt Ltd**, Noida — building fintech
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 📊 GitHub stats
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaylive&show_icons=true&count_private=true&hide_border=true)
-
 ### 📫 Find me
 🌐 [developersolution.in](https://www.developersolution.in)
